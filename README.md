@@ -1,7 +1,7 @@
 # Halo, Saya Muhammad Akbar Fadilah 👋
 ### Developer & Mahasiswa Teknik Informatika | Fokus pada Data Science & Full-Stack Web
 
-[cite_start]Saya adalah mahasiswa Teknik Informatika semester 6 di **Universitas Pamulang (UNPAM)** dengan IPK 3.30/4.00[cite: 28]. Saya memiliki *passion* yang mendalam dalam mengubah data menjadi solusi cerdas dan membangun aplikasi web yang berdampak nyata bagi operasional bisnis.
+Saya adalah mahasiswa Teknik Informatika semester 6 di **Universitas Pamulang (UNPAM)** dengan IPK 3.30/4.00. Saya memiliki *passion* yang mendalam dalam mengubah data menjadi solusi cerdas dan membangun aplikasi web yang berdampak nyata bagi operasional bisnis.
 
 ---
 
@@ -12,8 +12,8 @@
 ---
 
 ### 🛠️ Proyek Utama
-- **Sistem Perpustakaan Digital (Program PKM):** Rancang bangun aplikasi berbasis Laravel untuk digitalisasi pengelolaan buku di MAK UI Petukangan. [cite_start]Proyek ini telah mendapatkan **Sertifikat Surat Pencatatan Ciptaan** dari Kemenkumham RI[cite: 23, 28].
-- [cite_start]**Otomatisasi Sistem Rekrutmen (Kerja Praktek):** Implementasi penyaringan rekrutmen otomatis menggunakan algoritma **K-Nearest Neighbors (KNN)** untuk efisiensi operasional[cite: 24].
+- **Sistem Perpustakaan Digital (Program PKM):** Rancang bangun aplikasi berbasis Laravel untuk digitalisasi pengelolaan buku di MAK UI Petukangan. Proyek ini telah mendapatkan **Sertifikat Surat Pencatatan Ciptaan** dari Kemenkumham RI[.
+- **Otomatisasi Sistem Rekrutmen (Kerja Praktek):** Implementasi penyaringan rekrutmen otomatis menggunakan algoritma **K-Nearest Neighbors (KNN)** untuk efisiensi operasional.
 - **Gallery Digital Interaktif:** Proyek personal berbasis web untuk presentasi romantis menggunakan HTML/CSS dan JavaScript.
 
 ---
